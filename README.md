@@ -1,2 +1,2 @@
 # Weekly-ML-DL-Projects
-One weekly a project
+A project per week
