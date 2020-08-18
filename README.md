@@ -1,2 +1,2 @@
 # Weekly-Projects
-A project per week
+Weekly data science practice
